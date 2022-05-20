@@ -1,0 +1,97 @@
+﻿@model SistemaMVCMerino_A.Models.USUARIO
+@{
+    ViewBag.Title = "AgregarEditar";
+    List<SistemaMVCMerino_A.Models.EMPLEADO> Empleado = ViewBag.Empleado;
+}
+
+<h2>AgregarEditar</h2>
+<nav class="breadcrumd">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="~/USUARIO/Index">Usuarios</a>
+        </li>
+        <li class="breadcrumb-item active">
+            @(Model.IDUSUARIO > 0 ? Model.EMPLEADO.APELLIDO + " , " + Model.EMPLEADO.NOMBRE : "Nuevo Regisro")
+        </li>
+    </ol>
+</nav>
+
+@using (Html.BeginForm("Guardar", "USUARIO", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.IDUSUARIO)
+    <div class="card">
+        <div class="card-header">Informacion del Usuario</div>
+        <div class="card-body">
+            <div class="form-group">
+                @Html.Label("Id")
+                @Html.TextBoxFor(x => x.IDUSUARIO, new { @class = "form-control", disabled = true })
+            </div>
+            <div class="form-group">
+                @Html.Label("Apellidos y Nombres del Empleado")
+                <select name="IDEMPLEADO" class="form-control">
+                    <option @(Model.IDEMPLEADO.Equals("") ? "Selected" : "") value="">--Seleccione--</option>
+                    @foreach (var e in Empleado)
+                    {
+                        <option @(Model.IDEMPLEADO.Equals(e.IDEMPLEADO) ? "Selected" : "") value="@e.IDEMPLEADO">@e.APELLIDO, @e.NOMBRE</option>
+                    }
+                </select>
+                @Html.ValidationMessageFor(x => x.IDEMPLEADO, null, new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Usuario")
+                @Html.TextBoxFor(x => x.NOMBRE, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.NOMBRE, null, new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Clave")
+                @Html.TextBoxFor(x => x.CLAVE, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.CLAVE, null, new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Nivel")
+                <select name="NIVEL" class="form-control">
+                    <option @(Model.NIVEL == "" ? "Selected" : "" ) value="">
+                        --Seleccione--
+                    </option>
+                    <option @(Model.NIVEL == "Administrador" ? "Selected" : "" ) value="Administrador">
+                        Administrador
+                    </option>
+                    <option @(Model.NIVEL == "Supervisor" ? "Selected" : "" ) value="Supervisor">
+                        Supervisor
+                    </option>
+                    <option @(Model.NIVEL == "Usuario" ? "Selected" : "" ) value="Usuario">
+                        Usuario
+                    </option>
+                </select>
+                @Html.ValidationMessageFor(x => x.NIVEL, null, new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Avatar")
+                @Html.TextBoxFor(x => x.AVATAR, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.AVATAR, null, new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Estado")
+                <select name="ESTADO" class="form-control">
+                    <option @(Model.ESTADO == null ? "Selected" : "" ) value="">
+                        --Seleccione--
+                    </option>
+                    <option @(Model.ESTADO == 1 ? "Selected" : "" ) value="1">
+                        Activo
+                    </option>
+                    <option @(Model.ESTADO == 0 ? "Selected" : "" ) value="0">
+                        Inactivo
+                    </option>
+                </select>
+                @Html.ValidationMessageFor(x => x.ESTADO, null, new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="text-end">
+        <button type="submit" class="btn btn-primary">Grabar</button>
+        <a href="~/USUARIO" class="btn btn-danger">Cancelar</a>
+    </div>
+    <br />
+    <br />
+}

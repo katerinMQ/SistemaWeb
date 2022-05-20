@@ -1,0 +1,36 @@
+﻿@model SistemaMVCMerino_A.Models.CATEGORIA
+@{
+    ViewBag.Title = "Visualizar";
+}
+
+<h2>Visualizar</h2>
+<nav class="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="~/CATEGORIA/Index">Categorías</a>
+        </li>
+        <li class="breadcrumb-item active">@Model.NOMBRE</li>
+    </ol>
+</nav>
+
+<div class="card">
+    <div class="card-header">
+        Información de la categoría
+    </div>
+    <div class="card-body">
+        <dl class="dl-horizontal">
+            <dt>Id</dt>
+            <dd>@Model.IDCATEGORIA</dd>
+
+            <dt>Nombre de la Categoría</dt>
+            <dd>@Model.NOMBRE</dd>
+
+            <dt>Descripción</dt>
+            <dd>@Model.DESCRIPCION</dd>
+
+            <dt>Estado</dt>
+            <dd>@(Model.ESTADO == "A" ? "Activo" : "Inactivo")</dd>
+        </dl>
+    </div>
+</div>
+

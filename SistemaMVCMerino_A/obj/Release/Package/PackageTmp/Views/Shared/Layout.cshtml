@@ -1,0 +1,153 @@
+﻿@{
+    Layout = null;
+    string controlador = ViewContext.RouteData.Values["controller"].ToString().ToLower();
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sistema MVC Web II</title>
+    <!--Boostrap-->
+    <link href="~/Assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <!--DataTable-->
+    <link href="~/Assets/DataTables/datatables.min.css" rel="stylesheet" />
+    <link href="~/Assets/DataTables/DataTables-1.12.0/css/dataTables.semanticui.min.css" rel="stylesheet" />
+    <link href="~/Assets/DataTables/DataTables-1.12.0/css/dataTables.foundation.min.css" rel="stylesheet" />
+    <!--Jquery-->
+    <script src="~/Assets/js/jquery-3.6.0.min.js"></script>
+
+
+</head>
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">Menu Pincipal</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav me-auto mb-0 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Principal</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Mantenimiento
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="/USUARIO/Index">Usuarios</a></li>
+                                <li><a class="dropdown-item" href="/CATEGORIA/Index">Categorias</a></li>
+                                <li><a class="dropdown-item" href="/Productos/Index">Productos</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Consultas
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="#">Usuarios</a></li>
+                                <li><a class="dropdown-item" href="#">Categorias</a></li>
+                                <li><a class="dropdown-item" href="#">Productos</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Reportes
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="#">Usuarios por nivel</a></li>
+                                <li><a class="dropdown-item" href="#">Categorias</a></li>
+                                <li><a class="dropdown-item" href="#">Productos mas vendidos</a></li>
+                            </ul>
+                        </li>
+
+                    </ul>
+
+                    <ul class="navbar-nav me-0 mb-0 mb-lg-0">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <img src="~/Uploads/usuario4.png" width="40" height="40" />
+                                <b>Bienvenido: </b> Katerin Merino <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="~/Perfil/index">Perfil de Usuario</a></li>
+                                <li><a class="dropdown-item" href="~/Login/logout">Cerrar Sesión</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container">
+        <h1 class="text-center">Sistema - MVC</h1>
+        @RenderBody()
+    </div>
+    <!--Boostrap-->
+    <script src="~/Assets/js/bootstrap.min.js"></script>
+    <!--DataTable-->
+    <script src="~/Assets/DataTables/datatables.js"></script>
+
+</body>
+</html>
+
+<script>
+    $(document).ready(function () {
+        $('#DataTableVertical').DataTable({
+            scrollY: '200px',
+            scrollCollapse: true,
+            paging: false,
+        });
+
+        
+            $('#DataTableHorizontal').DataTable({
+                scrollX: true,
+            });
+
+
+        $("#DatatableP").DataTable({
+
+            "aLengthMenu": [[5, 10, 25, 50, 100, 200, -1], [3, 5, 10, 25, 50, 100, 200, "Todos"]],
+            "bDestroy": true,
+            "language": {
+                "sProcessing": "Procesando...",
+                "sLengthMenu": "Mostrar _MENU_ registros",
+                "sZeroRecords": "No se encontraron resultados",
+                "sEmptyTable": "Ning?n dato disponible en esta tabla",
+                "sInfo": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+                "sInfoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+                "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
+                "sInfoPostFix": "",
+                "sSearch": "Buscar:",
+                "sUrl": "",
+                "sInfoThousands": ",",
+                "sLoadingRecords": "Cargando...",
+                "oPaginate": {
+                    "sFirst": "Primero",
+                    "sLast": "?ltimo",
+                    "sNext": "Siguiente",
+                    "sPrevious": "Anterior"
+                },
+                "oAria": {
+                    "sSortAscending": ": Activar para ordenar la columna de manera ascendente",
+                    "sSortDescending": ": Activar para ordenar la columna de manera descendente"
+                }
+            }
+        });
+
+        $('#Personalizado').DataTable({
+            "paging": true,
+            "lengthChange": false,
+            "searching": false,
+            "ordering": true,
+            "info": true,
+            "autoWidth": false,
+            "aLengthMenu": [[5, 10, 25, 50, -1], [5, 10, 25, 50, "Todos"]]
+        });
+    });
+</script>

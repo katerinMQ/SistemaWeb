@@ -1,0 +1,328 @@
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.dll.config
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.pdb
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csc.exe
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csc.exe.config
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csc.rsp
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csi.exe
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csi.exe.config
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csi.rsp
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.Managed.Core.targets
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.AppContext.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Collections.Immutable.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Console.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Globalization.Calendars.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.IO.Compression.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.IO.FileSystem.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Net.Http.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Net.Sockets.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Reflection.Metadata.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.ValueTuple.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Xml.XmlDocument.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Xml.XPath.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\vbc.exe
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\vbc.exe.config
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\vbc.rsp
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\VBCSCompiler.exe
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\VBCSCompiler.exe.config
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\EntityFramework.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\EntityFramework.SqlServer.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\Microsoft.Web.Infrastructure.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Helpers.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Mvc.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Razor.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.Deployment.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.Razor.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\EntityFramework.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\EntityFramework.SqlServer.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Razor.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.Deployment.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.Razor.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Helpers.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Mvc.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Razor.resources.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Webpages.resources.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Helpers.resources.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Mvc.resources.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.AssemblyReference.cache
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.CoreCompileInputs.cache
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.CopyComplete
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.dll
+D:\__UPT\__CICLO IX\Programación web 2\UNIDAD II\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.pdb
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.dll.config
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.pdb
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csc.exe
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csc.exe.config
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csc.rsp
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csi.exe
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csi.exe.config
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\csi.rsp
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.AppContext.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Console.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.IO.Compression.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Net.Http.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Net.Sockets.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.ValueTuple.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\vbc.exe
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\vbc.exe.config
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\vbc.rsp
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\VBCSCompiler.exe
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\EntityFramework.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\EntityFramework.SqlServer.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Helpers.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Mvc.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Razor.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.Deployment.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.Razor.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\EntityFramework.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\EntityFramework.SqlServer.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Razor.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.Deployment.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Webpages.Razor.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Helpers.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\System.Web.Mvc.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Razor.resources.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Webpages.resources.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Helpers.resources.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\bin\es\System.Web.Mvc.resources.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.AssemblyReference.cache
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.CoreCompileInputs.cache
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.CopyComplete
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.dll
+C:\Users\KATHERIN\source\repos\SistemaMVCMerino_A\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.pdb
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.dll.config
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.pdb
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csc.exe
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csc.exe.config
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csc.rsp
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csi.exe
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csi.exe.config
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csi.rsp
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.AppContext.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Console.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Net.Http.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\vbc.exe
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\vbc.exe.config
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\vbc.rsp
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\EntityFramework.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\EntityFramework.SqlServer.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Helpers.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Mvc.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Razor.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\EntityFramework.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\EntityFramework.SqlServer.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Razor.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Helpers.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Mvc.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Razor.resources.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.CopyComplete
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.dll
+C:\Users\ALUMNO\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.pdb
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.dll.config
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\SistemaMVCMerino_A.pdb
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csc.exe
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csc.exe.config
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csc.rsp
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csi.exe
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csi.exe.config
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\csi.rsp
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.AppContext.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Console.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.IO.Compression.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Net.Http.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Net.Sockets.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.ValueTuple.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\vbc.exe
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\vbc.exe.config
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\vbc.rsp
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\VBCSCompiler.exe
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\EntityFramework.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\EntityFramework.SqlServer.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Helpers.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Mvc.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Razor.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.Deployment.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.Razor.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\EntityFramework.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\EntityFramework.SqlServer.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Razor.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.Deployment.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Webpages.Razor.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Helpers.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\System.Web.Mvc.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Razor.resources.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Webpages.resources.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Helpers.resources.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\bin\es\System.Web.Mvc.resources.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.AssemblyReference.cache
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.CoreCompileInputs.cache
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.csproj.CopyComplete
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.dll
+C:\Users\KATHERIN\source\repos\sistemamvcweb2-katerinMQ\SistemaMVCMerino_A\obj\Debug\SistemaMVCMerino_A.pdb

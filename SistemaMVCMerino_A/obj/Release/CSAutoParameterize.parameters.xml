@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ModeloVentas-Web.config Connection String" description="ModeloVentas Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="data source=.;initial catalog=bd_sistema;user id=sa;password=0509;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\KATHERIN\\source\\repos\\sistemamvcweb2-katerinMQ\\SistemaMVCMerino_A\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ModeloVentas']/@connectionString" />
+  </parameter>
+</parameters>

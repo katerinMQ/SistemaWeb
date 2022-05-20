@@ -1,0 +1,35 @@
+﻿@model SistemaMVCMerino_A.Models.USUARIO
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<div class="card">
+    <h1 class="page-header text-center">Autenticacion en el Sistema</h1>
+
+    <div class="card w-auto">
+        <div class="card-header">Login de Acceso</div>
+        <div class="card-body">
+            @using (Html.BeginForm("Acceder", "Login", FormMethod.Post))
+            {
+                <div class="form-group">
+                    <label>Usuario:</label>
+                    <input type="text" name="usuario" class="form-control"
+                           placeholder="Ingrese su usuario" />
+                </div>
+                <div class="form-group">
+                    <label>Password:</label>
+                    <input type="password" name="password" class="form-control"
+                           placeholder="Ingrese su password" />
+                </div>
+                <br />
+                <div class="text-right">
+                    <button data-ajax="true" type="submit" class="btn btn-primary">
+                        Acceder
+                    </button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,43 @@
+﻿@model SistemaMVCMerino_A.Models.USUARIO
+@{
+    ViewBag.Title = "Visualizar";
+}
+
+<h2>Visualizar</h2>
+<nav class="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="~/USUARIO/Index">Usuarios</a>
+        </li>
+        <li class="breadcrumb-item active">@Model.EMPLEADO.APELLIDO, @Model.EMPLEADO.NOMBRE</li>
+    </ol>
+</nav>
+
+<div class="card">
+    <div class="card-header">
+        Información de la Usuario
+    </div>
+    <div class="card-body">
+        <dl class="dl-horizontal">
+            <dt>Id</dt>
+            <dd>@Model.IDUSUARIO</dd>
+
+            <dt>Nombre del Empleado</dt>
+            <dd>@Model.EMPLEADO.NOMBRE</dd>
+
+            <dt>Nombre de la Usuario</dt>
+            <dd>@Model.NOMBRE</dd>
+
+            <dt>Nivel</dt>
+            <dd>@Model.NIVEL</dd>
+
+            <dt>Avatar</dt>
+            <dd><img src="~/Upload/"@Model.AVATAR></dd>
+
+            <dt>Estado</dt>
+            <dd>@(Model.ESTADO == 1 ? "Activo" : "Inactivo")</dd>
+        </dl>
+    </div>
+</div>
+
+

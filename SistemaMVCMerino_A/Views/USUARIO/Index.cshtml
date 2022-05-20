@@ -1,0 +1,50 @@
+﻿@model List<SistemaMVCMerino_A.Models.USUARIO>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="card text-center">Mantenimiento de Uusarios</h2>
+<div class="text-start">
+    <a href="~/USUARIO/AgregarEditar/" class="btn btn-secondary text-right">Agregar Nueva Usuario</a>
+</div>
+
+@*@using (Html.BeginForm("Index", "USUARIO", FormMethod.Post))
+{
+    <div class="text-end">
+        @Html.Label("Buscar: ")
+        @Html.TextBox("Criterio")
+        <button type="submit" class="btn btn-info">Buscar</button>
+    </div>
+}*@
+
+<table id="DatatableP" class="table">
+    <thead>
+        <tr>
+            <th style="width: 50px">Id</th>
+            <th style="width: 200px">Empleado</th>
+            <th style="width: 80px">Usuario</th>
+            <th style="width: 90px">Nivel</th>
+            <th style="width: 80px">Estado</th>
+            <th style="width: 250px"><center>Acciones</center></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@(m.IDUSUARIO)</td>
+                <td>@(m.EMPLEADO.APELLIDO), @(m.EMPLEADO.NOMBRE)</td>
+                <td>@(m.NOMBRE)</td>
+                <td>@(m.NIVEL)</td>
+                <td>@(m.ESTADO == 1 ? "Activo" : "Inactivo")</td>
+                <td class="text-center">
+                    <a href="~/USUARIO/Visualizar/@m.IDUSUARIO" class="btn btn-xs btn-warning">Visualizar</a>
+                    <a href="~/USUARIO/AgregarEditar/@m.IDUSUARIO" class="btn btn-xs btn-primary">Editar</a>
+                    <a href="~/USUARIO/Eliminar/@m.IDUSUARIO" class="btn btn-xs btn-danger" onclick="return confirm('¿Está seguro de eliminar el registro...?')">Eliminar</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+

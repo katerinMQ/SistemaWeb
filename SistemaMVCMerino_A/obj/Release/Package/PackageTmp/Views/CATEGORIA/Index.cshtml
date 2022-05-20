@@ -1,0 +1,45 @@
+﻿@model List<SistemaMVCMerino_A.Models.CATEGORIA>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="card text-center">Mantenimiento de Categorías</h2>
+<div class="text-start">
+    <a href="~/CATEGORIA/AgregarEditar/" class="btn btn-secondary text-right">Agregar Nueva Categoría</a>
+</div>
+
+@using (Html.BeginForm("Index", "CATEGORIA", FormMethod.Post))
+{
+    <div class="text-end">
+        @Html.Label("Buscar: ")
+        @Html.TextBox("Criterio")
+        <button type="submit" class="btn btn-info">Buscar</button>
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="width: 50px">Id</th>
+            <th style="width: 200px">Categoría</th>
+            <th style="width: 80px">Estado</th>
+            <th style="width: 250px"><center>Acciones</center></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@m.IDCATEGORIA</td>
+                <td>@m.NOMBRE</td>
+                <td>@(m.ESTADO == "A" ? "Activo" : "Inactivo")</td>
+                <td class="text-center">
+                    <a href="~/CATEGORIA/Visualizar/@m.IDCATEGORIA" class="btn btn-xs btn-warning">Visualizar</a>
+                    <a href="~/CATEGORIA/AgregarEditar/@m.IDCATEGORIA" class="btn btn-xs btn-primary">Editar</a>
+                    <a href="~/CATEGORIA/Eliminar/@m.IDCATEGORIA" class="btn btn-xs btn-danger" onclick="return confirm('¿Está seguro de eliminar el registro...?')">Eliminar</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
